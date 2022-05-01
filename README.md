@@ -8,7 +8,7 @@
   
  <div style="display: inline_block">
     <br>
-    <img align="center" alt="Alisson-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="Alisson-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg">
     <img align="center" alt="Alisson-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Alisson-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
     <img align="center" alt="Alisson-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-plain.svg">
