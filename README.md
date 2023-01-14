@@ -7,10 +7,9 @@
 </div
   
 <div style="display: inline_block"><br>
-    <img align="center" alt="Alisson-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg">
-    <img align="center" alt="Alisson-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    <img align="center" alt="Alisson-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="Alisson-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+    <img align="center" alt="php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="yii2" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-plain.svg">
+    <img align="center" alt="laravel" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
 </div>
 
 ##
