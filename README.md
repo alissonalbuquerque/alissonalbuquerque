@@ -6,8 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonalbuquerque&layout=compact&langs_count=7&theme=dark"/>
 </div
   
- <div style="display: inline-block">
-    <br>
+<div style="display: inline-block;">
+  <br>
     <img align="center" alt="Alisson-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg">
     <img align="center" alt="Alisson-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="center" alt="Alisson-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
